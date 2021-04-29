@@ -136,6 +136,7 @@ public class UsersForm {
 								
 								
 								//Start saving records in users table
+								
 								pst = con.prepareStatement(
 										"insert into Users(name,roleID,username,password,email,mobileNo,DOB,address,createdBy)values(?,?,?,?,?,?,?,?,?,?)");
 								pst.setString(1, tbName.getText());
