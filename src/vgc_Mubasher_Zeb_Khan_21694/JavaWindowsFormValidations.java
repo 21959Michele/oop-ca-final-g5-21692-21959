@@ -1,5 +1,6 @@
 package vgc_Mubasher_Zeb_Khan_21694;
 
+
 public class JavaWindowsFormValidations {
 
 	public static boolean validateOnlyTextBoxLetters(String controlName, String tbText, int minRanage, int maxRanage) {
