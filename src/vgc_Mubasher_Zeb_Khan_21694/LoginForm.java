@@ -51,6 +51,7 @@ public class LoginForm extends JFrame {
 	/**
 	 * Create the frame.
 	 */
+	
 	public LoginForm() {
 
 		Connect();
