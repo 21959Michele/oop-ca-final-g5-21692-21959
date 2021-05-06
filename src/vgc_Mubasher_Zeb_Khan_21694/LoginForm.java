@@ -194,7 +194,7 @@ public class LoginForm extends JFrame {
 			AppConfig.setUserLoginFlag(true);
 			
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		}
 	}
