@@ -37,7 +37,7 @@ Username: Bolt		Password: 12345678<br>
 Username: Jackey		Password: 12345678<br>
 
 ## UML Diagram <br>
-<img src="media/UML%20Class%20Diagram%20Source%20File.png" width="800" hight="600" >
+<img src="media/UML%20Class%20Diagram%20Source%20File.png" width="1000" hight="800" >
 
 ## GUI APLICATION <br>
 <img src="media/login.png" width="500" hight="350" >
@@ -48,6 +48,7 @@ Username: Jackey		Password: 12345678<br>
 <img src="media/usersForm.png" width="500" hight="350" >
 <img src="media/examsForm.png" width="500" hight="350" >
 <img src="media/courseEnroll.png" width="500" hight="350" >
+
 
 ## Resources:
 
