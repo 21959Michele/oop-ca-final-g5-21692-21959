@@ -38,6 +38,6 @@ Username: Jackey		Password: 12345678<br>
 
 ## Resources:
 
-https://www.youtube.com/watch?v=QR-JaMTFB8c
-https://www.youtube.com/watch?v=Tch-CpttcOc
-https://www.youtube.com/watch?v=El939Eu0Z70
+https://www.youtube.com/watch?v=QR-JaMTFB8c <br>
+https://www.youtube.com/watch?v=Tch-CpttcOc <br>
+https://www.youtube.com/watch?v=El939Eu0Z70 <br>
