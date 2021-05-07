@@ -36,6 +36,19 @@ Username: Bolt		Password: 12345678<br>
 ##### Faculty:<br>
 Username: Jackey		Password: 12345678<br>
 
+## UML Diagram <br>
+![UML Class Diagram Source File](https://user-images.githubusercontent.com/71330436/117500932-3f1f9180-af75-11eb-9154-7df452707f90.png) <br>
+
+## GUI APLICATION <br>
+![login](https://user-images.githubusercontent.com/71330436/117501569-2368bb00-af76-11eb-8de2-355d007cbaa9.png ) <br>
+![usersForm](https://user-images.githubusercontent.com/71330436/117501593-2a8fc900-af76-11eb-94aa-476ecc072710.png) <br>
+![adminPanel](https://user-images.githubusercontent.com/71330436/117501661-42ffe380-af76-11eb-8159-97c97d5c070f.png) <br>
+![studentDashboard](https://user-images.githubusercontent.com/71330436/117502442-6d9e6c00-af77-11eb-9d03-b14f8e2677b5.png)
+![studentAttendance](https://user-images.githubusercontent.com/71330436/117502453-71ca8980-af77-11eb-90ce-e4331175585a.png)
+![facultyDashboard](https://user-images.githubusercontent.com/71330436/117502494-7f800f00-af77-11eb-9475-7a36fea82b44.png)
+![examsForm](https://user-images.githubusercontent.com/71330436/117502506-83139600-af77-11eb-9c0f-4b785401589e.png)
+
+
 ## Resources:
 
 https://www.youtube.com/watch?v=QR-JaMTFB8c <br>
