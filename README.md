@@ -17,6 +17,12 @@ Database link: https://dorsetdemo-my.sharepoint.com/:f:/g/personal/21959_student
 
 <p> In order to connect the database go localhost in any browser and click PhpMyadmin, then click on new and write the same name as the database provided, then go ahead and upload the databse provided it should all work fine after uploading database to local host in xampp. </p>
 
+Xampp tutorial Youtube Link: https://youtu.be/DiBuH_H20NA
+
+<p> Download xxamp from google and install it. Run the xampp and start apache and mysql servers. Just to keep in mind that sql uses 3306 port which has to be vacant in order for xampp to work. <br>
+If sql workbench is running , xampp will not run. Workbench must be stopped from task manager first before running xampp server. <br>
+Another point is that when creating new databse in local host name must be same as the database provided. And then import the database from the downloaded location. Then run the servers from xampp control.<p>
+
 
 
 ## Project Description
